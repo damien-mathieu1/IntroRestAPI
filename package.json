@@ -1,0 +1,25 @@
+{
+  "name": "introrestapi",
+  "version": "1.0.0",
+  "description": "server http pour l'api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damien-mathieu1/IntroRestAPI.git"
+  },
+  "keywords": [
+    "server.http.api.rest"
+  ],
+  "author": "Damien MATHIEU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damien-mathieu1/IntroRestAPI/issues"
+  },
+  "homepage": "https://github.com/damien-mathieu1/IntroRestAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
